@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Duarte 👋
+## Welcome, I'm availablee 👋
 
   <a href=https://github.com/LucasdeSDuarte>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasdeSDuarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
