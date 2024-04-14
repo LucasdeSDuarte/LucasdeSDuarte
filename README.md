@@ -1,4 +1,4 @@
-## Welcome, I'm availablee 👋
+## Seja Bem-vindo, Estou as Disposição 👋
 
   <a href=https://github.com/LucasdeSDuarte>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasdeSDuarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,7 +27,5 @@
   <a href="https://www.linkedin.com/in/lucas-duarte-4872b988/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.facebook.com/lukaz.duarte" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="@" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
